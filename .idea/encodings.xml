@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../spring-cloud-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-parent/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-parent/config-client-gkyfbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-parent/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-parent/config-server-gkyfbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-parent/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-parent/server-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-parent/service-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-parent/service-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../spring-cloud-parent/service-zuul" charset="UTF-8" />
+  </component>
+</project>

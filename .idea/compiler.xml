@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
+        <module name="config-client-gkyfbs" />
+        <module name="config-server" />
+        <module name="config-server-gkyfbs" />
+        <module name="eureka-server" />
+        <module name="server-client" />
+        <module name="service-feign" />
+        <module name="service-ribbon" />
+        <module name="service-zuul" />
+        <module name="spring-cloud-parent" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
